@@ -2,5 +2,5 @@
 
 
 
-https://github.com/OzanOcak/phpcrud/assets/12824126/18ac63fd-b96a-4a0b-93bc-361a9a326e49
+![php-crud](https://github.com/OzanOcak/phpcrud/assets/12824126/9a344a3a-48f2-4b0d-b62c-d826127eee13)
 
